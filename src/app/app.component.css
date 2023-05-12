@@ -1,0 +1,16 @@
+.menu-container{
+    background-color: black;
+}
+.menu {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    width: 40%;
+}
+li.nav-item {
+    display: table-row;
+}
+a.nav-link {
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,19 @@
+.imageCard {
+    background: #efeaea;
+    width: 30%;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+button{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top:10px;
+}
